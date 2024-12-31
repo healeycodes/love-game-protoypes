@@ -1,4 +1,7 @@
-# LÖVE Game Prototypes
+# 🃏 LÖVE Game Prototypes
+> My blog post: [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
+
+<br>
 
 A collection of simple game prototypes made with the LÖVE game framework.
 
