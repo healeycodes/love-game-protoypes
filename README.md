@@ -2,6 +2,8 @@
 
 A collection of simple game prototypes made with the LÖVE game framework.
 
+<br>
+
 ## Running the Games
 
 1. Install LÖVE from https://love2d.org
