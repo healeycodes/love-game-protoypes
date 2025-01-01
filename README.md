@@ -3,7 +3,7 @@
 
 <br>
 
-A collection of simple game prototypes made with the LÖVE game framework.
+A collection of quick game prototypes made with the LÖVE game framework.
 
 <br>
 
